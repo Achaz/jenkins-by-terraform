@@ -34,3 +34,4 @@ id_rsa.*
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+plan.txt
